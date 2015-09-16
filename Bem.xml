@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfBem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Bem>
+    <Data>2015-09-16T14:15:08.117928-03:00</Data>
+    <Descricao>Capacete</Descricao>
+    <Tag>
+      <Id>000000000000000000002207</Id>
+    </Tag>
+    <Valor>0</Valor>
+  </Bem>
+  <Bem>
+    <Data>2015-09-16T14:15:08.1208284-03:00</Data>
+    <Descricao>Luva</Descricao>
+    <Tag>
+      <Id>000000000000000000002205</Id>
+    </Tag>
+    <Valor>0</Valor>
+  </Bem>
+  <Bem>
+    <Data>2015-09-16T14:15:08.1208284-03:00</Data>
+    <Descricao>Cracha</Descricao>
+    <Tag>
+      <Id>000000F43474213000020143</Id>
+    </Tag>
+    <Valor>0</Valor>
+  </Bem>
+  <Bem>
+    <Data>2015-09-16T14:15:08.1208284-03:00</Data>
+    <Descricao>cinto</Descricao>
+    <Tag>
+      <Id>000000000000000000100047</Id>
+    </Tag>
+    <Valor>0</Valor>
+  </Bem>
+</ArrayOfBem>

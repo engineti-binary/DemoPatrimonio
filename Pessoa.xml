@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfPessoa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pessoa>
+    <Nome>Mauricio</Nome>
+    <Tag>
+      <Id>10014D000000000000007557</Id>
+    </Tag>
+  </Pessoa>
+  <Pessoa>
+    <Nome>Marcelo</Nome>
+    <Tag>
+      <Id>10014D000000000000007558</Id>
+    </Tag>
+  </Pessoa>
+  <Pessoa>
+    <Nome>Pedro</Nome>
+    <Tag>
+      <Id>10014D000000000000007559</Id>
+    </Tag>
+  </Pessoa>
+</ArrayOfPessoa>
