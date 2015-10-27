@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <ArrayOfLocal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Local>
-    <Nome>Estoque Materia Prima</Nome>
+    <Nome>Doop consultoria Nonoai</Nome>
     <PontoMapa>
       <Latitude>-22.9015</Latitude>
       <Longitude>-43.1819</Longitude>
     </PontoMapa>
     <Tag>
-      <Id>E2009020140301791160A16D</Id>
+      <Id>E2001001830B02330480E376</Id>
     </Tag>
   </Local>
   <Local>
-    <Nome>Envase</Nome>
+    <Nome>Prefeitura Nonoai</Nome>
     <PontoMapa>
       <Latitude>-22.9015</Latitude>
       <Longitude>-43.1819</Longitude>
     </PontoMapa>
     <Tag>
-      <Id>E2001994940A01041380862E</Id>
+      <Id>E2001001830B0234260010B2</Id>
     </Tag>
   </Local>
   <Local>
