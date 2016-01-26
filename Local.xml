@@ -1,43 +1,43 @@
 <?xml version="1.0"?>
 <ArrayOfLocal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Local>
-    <Nome>Doop consultoria Nonoai</Nome>
+    <Nome>Estoque Materia Prima</Nome>
     <PontoMapa>
-      <Latitude>-22.9015</Latitude>
-      <Longitude>-43.1819</Longitude>
+      <Latitude>0</Latitude>
+      <Longitude>0</Longitude>
     </PontoMapa>
     <Tag>
-      <Id>E2001001830B02330480E376</Id>
+      <Id>E200107129120231253011C1</Id>
     </Tag>
   </Local>
   <Local>
-    <Nome>Prefeitura Nonoai</Nome>
+    <Nome>Envase</Nome>
     <PontoMapa>
-      <Latitude>-22.9015</Latitude>
-      <Longitude>-43.1819</Longitude>
+      <Latitude>15</Latitude>
+      <Longitude>15</Longitude>
     </PontoMapa>
     <Tag>
-      <Id>E2001001830B0234260010B2</Id>
+      <Id>E200107129120159255012E3</Id>
     </Tag>
   </Local>
   <Local>
     <Nome>Laboratorio</Nome>
     <PontoMapa>
-      <Latitude>-22.9015</Latitude>
-      <Longitude>-43.1819</Longitude>
+      <Latitude>-15</Latitude>
+      <Longitude>-15</Longitude>
     </PontoMapa>
     <Tag>
-      <Id>000000F43474213000020143</Id>
+      <Id>000000000000000000100047</Id>
     </Tag>
   </Local>
    <Local>
     <Nome>Fabrica</Nome>
     <PontoMapa>
-      <Latitude>-22.9015</Latitude>
-      <Longitude>-43.1819</Longitude>
+      <Latitude>20</Latitude>
+      <Longitude>-15</Longitude>
     </PontoMapa>
     <Tag>
-      <Id>E20093707007009327600550</Id>
+      <Id>000000000000000000100047</Id>
     </Tag>
   </Local>
   <Local>
@@ -47,7 +47,7 @@
       <Longitude>-43.1819</Longitude>
     </PontoMapa>
     <Tag>
-      <Id>E2001994940A01041380862E</Id>
+      <Id>000000000000000000100047</Id>
     </Tag>
   </Local>
   <Local>
@@ -57,7 +57,7 @@
       <Longitude>-43.1819</Longitude>
     </PontoMapa>
     <Tag>
-      <Id>000000F43474214000000643</Id>
+      <Id>000000000000000000100047</Id>
     </Tag>
   </Local>
   <Local>
@@ -67,7 +67,7 @@
       <Longitude>-43.1819</Longitude>
     </PontoMapa>
     <Tag>
-      <Id>000000F43474213000020143</Id>
+      <Id>000000000000000000100047</Id>
     </Tag>
   </Local>
   <Local>

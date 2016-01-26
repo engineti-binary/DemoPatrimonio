@@ -4,56 +4,44 @@
     <Data>2015-09-16T14:15:08.117928-03:00</Data>
     <Descricao>Capacete</Descricao>
     <Tag>
-      <Id>000000F43474213000020143</Id>
+      <Id>0014790000000000000050A7</Id>
     </Tag>
-    <Valor>0</Valor>
+    <ValorAtual>500</ValorAtual>
+    <ValorAquisicao>500</ValorAquisicao>
+    <Situacao>Em uso</Situacao>
+    <Estado>Servível</Estado>
   </Bem>
   <Bem>
     <Data>2015-09-16T14:15:08.1208284-03:00</Data>
     <Descricao>Luva</Descricao>
     <Tag>
-      <Id>000000F43474213012246944</Id>
+      <Id>001479000000000000005009</Id>
     </Tag>
-    <Valor>0</Valor>
+    <ValorAtual>300</ValorAtual>
+    <ValorAquisicao>300</ValorAquisicao>
+    <Situacao>Extraviado</Situacao>
+    <Estado>Servível</Estado>  
   </Bem>
   <Bem>
     <Data>2015-09-16T14:15:08.1208284-03:00</Data>
     <Descricao>Cracha</Descricao>
     <Tag>
-      <Id>E20090276210019523402412</Id>
+      <Id>000000F43474213000020143</Id>
     </Tag>
-    <Valor>0</Valor>
+    <ValorAtual>450</ValorAtual>
+    <ValorAquisicao>450</ValorAquisicao>
+    <Situacao>Em uso</Situacao>
+    <Estado>Servível</Estado>  
   </Bem>
   <Bem>
     <Data>2015-09-16T14:15:08.1208284-03:00</Data>
     <Descricao>cinto</Descricao>
     <Tag>
-      <Id>000000000000000000002205</Id>
+      <Id>000000000000000000100047</Id>
     </Tag>
-    <Valor>0</Valor>
-  </Bem>
-  <Bem>
-    <Data>2015-09-16T14:15:08.1208284-03:00</Data>
-    <Descricao>NOTEBOOK DOOP NONOAI</Descricao>
-    <Tag>
-      <Id>0014790000000000000050A7</Id>
-    </Tag>
-    <Valor>0</Valor>
-  </Bem>
-  <Bem>
-    <Data>2015-09-16T14:15:08.1208284-03:00</Data>
-    <Descricao>Viatura Prefeitura Nonoai</Descricao>
-    <Tag>
-      <Id>000000000000001000003361</Id>
-    </Tag>
-    <Valor>0</Valor>
-  </Bem>
-  <Bem>
-    <Data>2015-09-16T14:15:08.1208284-03:00</Data>
-    <Descricao>Extintor Hospital Nonoai</Descricao>
-    <Tag>
-      <Id>E200107129120159255012E3</Id>
-    </Tag>
-    <Valor>0</Valor>
+    <ValorAtual>100</ValorAtual>
+    <ValorAquisicao>100</ValorAquisicao>
+    <Situacao>Em uso</Situacao>
+    <Estado>Servível</Estado>  
   </Bem>
 </ArrayOfBem>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfPadraoDepreciacao xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PadraoDepreciacao>
+    <Nome>moveis escritório</Nome>
+    <Ciclomeses>3</Ciclomeses>
+    <Percentual>5</Percentual>
+  </PadraoDepreciacao>
+  <PadraoDepreciacao>
+    <Nome>informática</Nome>
+    <Ciclomeses>1</Ciclomeses>
+    <Percentual>8</Percentual>
+  </PadraoDepreciacao>
+  <PadraoDepreciacao>
+    <Nome>veículos</Nome>
+    <Ciclomeses>12</Ciclomeses>
+    <Percentual>5</Percentual>
+  </PadraoDepreciacao>  
+</ArrayOfPadraoDepreciacao>
